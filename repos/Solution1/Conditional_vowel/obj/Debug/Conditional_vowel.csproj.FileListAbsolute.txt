@@ -1,0 +1,7 @@
+C:\Users\Minh Hanh\source\repos\Solution1\Conditional_vowel\bin\Debug\Conditional_vowel.exe.config
+C:\Users\Minh Hanh\source\repos\Solution1\Conditional_vowel\bin\Debug\Conditional_vowel.exe
+C:\Users\Minh Hanh\source\repos\Solution1\Conditional_vowel\bin\Debug\Conditional_vowel.pdb
+C:\Users\Minh Hanh\source\repos\Solution1\Conditional_vowel\obj\Debug\Conditional_vowel.csproj.AssemblyReference.cache
+C:\Users\Minh Hanh\source\repos\Solution1\Conditional_vowel\obj\Debug\Conditional_vowel.csproj.CoreCompileInputs.cache
+C:\Users\Minh Hanh\source\repos\Solution1\Conditional_vowel\obj\Debug\Conditional_vowel.exe
+C:\Users\Minh Hanh\source\repos\Solution1\Conditional_vowel\obj\Debug\Conditional_vowel.pdb
