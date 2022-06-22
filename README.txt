@@ -46,6 +46,18 @@ Array
 - Class 8 | Write C# program to swap first and last digit of a number
 - Class 9 | Write C# program to find the sum of first and last digit of any number
 - Class 10 | Write C# program to find Armstrong numbers between 1 to n
+String
+- Class 1 | Write a C# program to accept a string from keyboard and print it
+- Class 2 | Write a C# program to Separate the individual characters from a string
+- Class 3 | Write a C# program to find the length of a string without using library function
+- Class 4 | Write a C# program to count a total number of alphabets, digits and special characters in a string
+- Class 5 | Write a C# program to print individual characters of the string in reverse order
+- Class 6 | Write a C# program to copy one string to another string
+- Class 7 | Write a C# program to count a total number of vowel or consonant in a string
+- Class 8 | Write a C# program to find maximum occurring character in a string
+- Class 9 | Write a C# program to read a string through the keyboard and sort it using bubble sort
+- Class 10 | Write a C# program to find the number of times a substring appears in the given String
+
 
 
 
