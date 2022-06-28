@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Minh Hanh\\source\\repos\\ProgrammingExercises\\loop\\loop.csproj",
+      "projectUniqueName": "C:\\Users\\Minh Hanh\\Desktop\\mygit\\ProgrammingExercises\\loop\\loop.csproj",
       "projectName": "loop",
-      "projectPath": "C:\\Users\\Minh Hanh\\source\\repos\\ProgrammingExercises\\loop\\loop.csproj",
+      "projectPath": "C:\\Users\\Minh Hanh\\Desktop\\mygit\\ProgrammingExercises\\loop\\loop.csproj",
       "packagesPath": "C:\\Users\\Minh Hanh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Minh Hanh\\source\\repos\\ProgrammingExercises\\loop\\obj\\",
+      "outputPath": "C:\\Users\\Minh Hanh\\Desktop\\mygit\\ProgrammingExercises\\loop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Minh Hanh\\AppData\\Roaming\\NuGet\\NuGet.Config",

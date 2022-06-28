@@ -6,15 +6,17 @@ namespace loop
     {
         static void Main(string[] args)
         {
-            new Class1().alphabet();
-            new Class2().ASCIIvalues();
-            new Class3().table();
-            new Class5().sum();
-            new Class6().evenNumbers();
-            new Class7().oddNumbers();
-            new Class8().digit();
-            new Class9().lastDigit();
-            new Class10().number();
+            new exercise2().alphabet();
+            new exercise2().ASCIIvalues();
+            new exercise2().table();
+            new exercise2().sum();
+            new exercise2().evenNumbers();
+            new exercise2().oddNumbers();
+            new exercise2().digit();
+            new exercise2().lastDigit();
+            new exercise2().number();
+            new exercise2().naturalNumber();
+
         }
     }
 }

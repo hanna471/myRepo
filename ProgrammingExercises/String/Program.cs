@@ -6,16 +6,16 @@ namespace String
     {
         static void Main(string[] args)
         {
-            new Class1().acceptString();
-            new Class2().individualCharacters();
-            new Class3().findLengthString();
-            new Class4().countTotalNumber();
-            new Class5().IndividualCharactersString();
-            new Class6().copyOneString();
-            new Class7().countatotalnumber();
-            new Class8().findmaximumoccurring();
-            new Class9().readstring();
-            new Class10().findthenumberoftimes();
+            new exercise4().acceptString();
+            new exercise4().individualCharacters();
+            new exercise4().findLengthString();
+            new exercise4().countTotalNumber();
+            new exercise4().IndividualCharactersString();
+            new exercise4().copyOneString();
+            new exercise4().countatotalnumber();
+            new exercise4().findmaximumoccurring();
+            new exercise4().readstring();
+            new exercise4().findthenumberoftimes();
 
 
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Minh Hanh\\source\\repos\\ProgrammingExercises\\Conditional\\Conditional.csproj": {}
+    "C:\\Users\\Minh Hanh\\Desktop\\mygit\\ProgrammingExercises\\Conditional\\Conditional.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Minh Hanh\\source\\repos\\ProgrammingExercises\\Conditional\\Conditional.csproj": {
+    "C:\\Users\\Minh Hanh\\Desktop\\mygit\\ProgrammingExercises\\Conditional\\Conditional.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Minh Hanh\\source\\repos\\ProgrammingExercises\\Conditional\\Conditional.csproj",
+        "projectUniqueName": "C:\\Users\\Minh Hanh\\Desktop\\mygit\\ProgrammingExercises\\Conditional\\Conditional.csproj",
         "projectName": "Conditional",
-        "projectPath": "C:\\Users\\Minh Hanh\\source\\repos\\ProgrammingExercises\\Conditional\\Conditional.csproj",
+        "projectPath": "C:\\Users\\Minh Hanh\\Desktop\\mygit\\ProgrammingExercises\\Conditional\\Conditional.csproj",
         "packagesPath": "C:\\Users\\Minh Hanh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Minh Hanh\\source\\repos\\ProgrammingExercises\\Conditional\\obj\\",
+        "outputPath": "C:\\Users\\Minh Hanh\\Desktop\\mygit\\ProgrammingExercises\\Conditional\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Minh Hanh\\AppData\\Roaming\\NuGet\\NuGet.Config",

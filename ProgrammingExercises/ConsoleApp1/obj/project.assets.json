@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Minh Hanh\\source\\repos\\ProgrammingExercises\\ConsoleApp1\\Language Basic.csproj",
+      "projectUniqueName": "C:\\Users\\Minh Hanh\\Desktop\\mygit\\ProgrammingExercises\\ConsoleApp1\\Language Basic.csproj",
       "projectName": "Language Basic",
-      "projectPath": "C:\\Users\\Minh Hanh\\source\\repos\\ProgrammingExercises\\ConsoleApp1\\Language Basic.csproj",
+      "projectPath": "C:\\Users\\Minh Hanh\\Desktop\\mygit\\ProgrammingExercises\\ConsoleApp1\\Language Basic.csproj",
       "packagesPath": "C:\\Users\\Minh Hanh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Minh Hanh\\source\\repos\\ProgrammingExercises\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Minh Hanh\\Desktop\\mygit\\ProgrammingExercises\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Minh Hanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
