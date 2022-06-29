@@ -12,8 +12,12 @@ namespace Conditional
             new exercise().integers();
             new exercise().determine();
             new exercise().eligibility();
-            new Class7().caculate();
-            new Class8().month();
+            new exercise().caculate();
+            new exercise().month();
+            new exercise().number();
+            new exercise().triangle1();
+
+
         }
     }
 }

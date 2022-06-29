@@ -6,12 +6,12 @@ namespace Language_Basic
     {
         static void Main(string[] args)
         {
-            new Class1().test();
-            new Class2().circle();
-            new Class3().ASCII();
-            new Class4().square();
-            new Class5().rectangle();
-            new Class6().convert();
+            new exercise1().test();
+            new exercise1().circle();
+            new exercise1().ASCII();
+            new exercise1().square();
+            new exercise1().rectangle();
+            new exercise1().convert();
         }
     }
 }
