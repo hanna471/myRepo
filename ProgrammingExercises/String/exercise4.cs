@@ -2,8 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace String
+namespace Loop
 {
+
+
     class exercise4
     {
         public void acceptString()

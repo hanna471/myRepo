@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace loop
+namespace Loop
 {
     class exercise2
 

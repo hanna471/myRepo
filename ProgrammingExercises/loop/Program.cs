@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace loop
+namespace Loop
 {
     class Program
     {
