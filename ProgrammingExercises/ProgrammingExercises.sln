@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Language Basic", "LanguageB
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conditional", "Conditional\Conditional.csproj", "{19005ECA-5F83-4939-80CC-E3E40960B4E9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loop", "loop\Loop.csproj", "{F45AD082-0776-4CA9-8609-07AF046BE81F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loop", "Loop\Loop.csproj", "{F45AD082-0776-4CA9-8609-07AF046BE81F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array", "Array\Array.csproj", "{37729758-613B-478E-B5BF-3271CC9E66C7}"
 EndProject
