@@ -6,16 +6,16 @@ namespace Conditional
     {
         static void Main(string[] args)
         {
-            new exercise().character();
-            new exercise().alphabet();
-            new exercise().day();
-            new exercise().integers();
-            new exercise().determine();
-            new exercise().eligibility();
-            new exercise().caculate();
-            new exercise().month();
-            new exercise().number();
-            new exercise().triangle1();
+            new Exercise().character();
+            new Exercise().alphabet();
+            new Exercise().day();
+            new Exercise().integers();
+            new Exercise().determine();
+            new Exercise().eligibility();
+            new Exercise().caculate();
+            new Exercise().month();
+            new Exercise().number();
+            new Exercise().triangle1();
 
 
         }

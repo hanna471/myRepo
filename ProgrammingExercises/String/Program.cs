@@ -6,16 +6,16 @@ namespace Loop
     {
         static void Main(string[] args)
         {
-            new exercise4().acceptString();
-            new exercise4().individualCharacters();
-            new exercise4().findLengthString();
-            new exercise4().countTotalNumber();
-            new exercise4().IndividualCharactersString();
-            new exercise4().copyOneString();
-            new exercise4().countatotalnumber();
-            new exercise4().findmaximumoccurring();
-            new exercise4().readstring();
-            new exercise4().findthenumberoftimes();
+            new Exercise4().acceptString();
+            new Exercise4().individualCharacters();
+            new Exercise4().findLengthString();
+            new Exercise4().countTotalNumber();
+            new Exercise4().IndividualCharactersString();
+            new Exercise4().copyOneString();
+            new Exercise4().countatotalnumber();
+            new Exercise4().findmaximumoccurring();
+            new Exercise4().readstring();
+            new Exercise4().findthenumberoftimes();
 
 
         }
