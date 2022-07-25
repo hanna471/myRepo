@@ -6,16 +6,16 @@ namespace Array
     {
         static void Main(string[] args)
         {
-            new exercise3().Length();
-            new exercise3().findSum();
-            new exercise3().Array();
-            new exercise3().FindMinandMax();
-            new exercise3().print();
-            new exercise3().count();
-            new exercise3().uniqueElement();
-            new exercise3().copyElement();
-            new exercise3().countNumber();
-            new exercise3().deleteDuplicateElements();
+            new Exercise3().Length();
+            new Exercise3().findSum();
+            new Exercise3().Array();
+            new Exercise3().FindMinandMax();
+            new Exercise3().print();
+            new Exercise3().count();
+            new Exercise3().uniqueElement();
+            new Exercise3().copyElement();
+            new Exercise3().countNumber();
+            new Exercise3().deleteDuplicateElements();
         }
     }
 }

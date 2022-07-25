@@ -6,15 +6,15 @@ namespace Loop
     {
         static void Main(string[] args)
         {
-            new exercise4().alphabet();
-            new exercise4().ASCIIvalues();
-            new exercise4().table();
-            new exercise4().sum();
-            new exercise4().evenNumbers();
-            new exercise4().oddNumbers();
-            new exercise4().digit();
-            new exercise4().lastDigit();
-            new exercise4().number();
+            new Exercise4().alphabet();
+            new Exercise4().ASCIIvalues();
+            new Exercise4().table();
+            new Exercise4().sum();
+            new Exercise4().evenNumbers();
+            new Exercise4().oddNumbers();
+            new Exercise4().digit();
+            new Exercise4().lastDigit();
+            new Exercise4().number();
         }
     }
 }

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Loop
 {
-    class exercise4
+    class Exercise4
     {
         public void alphabet()
         {

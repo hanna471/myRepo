@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Conditional
 {
-    class exercise
+    class Exercise
     {
         public void character()
         {
